@@ -62,14 +62,12 @@ class Vehicle {
         decelerate();
     }
 
-    autoPark()
-    {
+    autoPark() {
 
     }
 
-    autoDrive()
-    {
-      
+    autoDrive() {
+
     }
 
     typeOfVehicle(wheels) {
